@@ -17,7 +17,6 @@ d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\rpcalc.RazorAssemblyInfo.cs
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\scopedcss\bundle\rpcalc.styles.css
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\scopedcss\projectbundle\rpcalc.bundle.scp.css
-d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\compressed\9tkc6ocr9h-b9sayid5wm.gz
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\compressed\t0aopmtmn5-61n19gt1b8.gz
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\compressed\9r0cch6eru-xtxxf3hu2r.gz
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\compressed\i0kdll4yks-bqjiyaj88i.gz
@@ -95,3 +94,6 @@ d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\refint\rpcalc.dll
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\rpcalc.pdb
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\rpcalc.genruntimeconfig.cache
 d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\ref\rpcalc.dll
+d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\rpcalc.sourcelink.json
+d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\compressed\9tkc6ocr9h-l1yzhm3cjm.gz
+d:\Programs\OSPanel\home\rpcalc\obj\Debug\net9.0\compressed\5ezsrynqrj-g27w42rmmv.gz

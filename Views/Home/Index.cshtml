@@ -1,8 +1,85 @@
 ﻿@{
-    ViewData["Title"] = "RPCalc - лучший калькулятор прибыли для Role Play проектов";
+ViewData["Title"] = "RPCalc - лучший калькулятор прибыли для Role Play проектов";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="container jost-weight section1">
+    <h1 class="d-none">Калькулятор прибыли для Role Play проектов</h1>
+    <div class="text-center main-description">
+        ЛУЧШИЙ ФИНАНСОВЫЙ ИНСТРУМЕНТ В МИРЕ RP
+    </div>
+    <div class="text-center second-description">
+        ДОСТИГАЙТЕ УСПЕХА С НАМИ!
+    </div>
+    <div
+        class="alert alert-primary text-center mt-4"
+        role="alert"
+    >
+        Сайт находится в разработке и не отражает финального результата
+    </div>
+
+    <a href="{{route('register')}}" class="text-decoration-none">
+        <div class="mx-auto get-started-button">
+            НАЧАТЬ
+        </div>
+    </a>
+    <div class="row">
+        <ul class="first-list col">
+            <li>
+                Учёт доходов и расходов
+            </li>
+            <li>
+                Создание категорий
+            </li>
+            <li>
+                Просмотр статистики
+            </li>
+            <li>
+                Аналитика
+            </li>
+        </ul>
+        <ul class="first-list col">
+            <li>
+                Удобный интерфейс
+            </li>
+            <li>
+                Безопасность
+            </li>
+            <li>
+                Интерактивные инструменты
+            </li>
+            <li>
+                От фармил для фармил
+            </li>
+        </ul>
+    </div>
+</section>
+<section class="section2 m-0">
+    <div class="container">
+        <div class="text-center main-description">
+            КАЛЬКУЛЯТОР ПРИБЫЛИ
+        <div>
+        <div class="row">
+            <div class="col-5">
+                <div class="text-start second-description mt-5">
+                    Мы создали лучший калькулятор прибыли GTA 5 RP для анализа своих расходов и доходов. Благодаря функционалу нашего сервиса,
+                    вы сможете удобно оптимизировать свои расходы. А наша статистика поможет выбрать наиболее прибыльные инвестиции.
+                </div>
+            </div>
+            <div class="col-5 ms-auto pt-4">
+                <picture>
+                    <img
+                        src="{{asset('build/assets/images/main_left.png')}}"
+                        class="img-fluid"
+                    />
+                </picture>
+            </div>
+        </div>
+
+        <!-- <div class="text-center main-description mt-5">
+            СОЗДАВАЙТЕ КАТЕГОРИИ
+        <div>
+        <div class="text-center second-description mt-5">
+        Удобный инструмент создания категорий позволит легко анализировать доходы и расходы, собирать статистику за определённый период, а также максимально оптимизировать свой бизнес.
+        </div> -->
+    </div>
+</section>
